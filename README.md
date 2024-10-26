@@ -10,5 +10,5 @@ A responsive web application that displays real-time prices for popular cryptocu
 
 **Screenshots:**
 
-![Main Page](![image](https://github.com/user-attachments/assets/26b1116c-2e67-432b-8da3-10258e14033f)
-)
+![Screenshot 2024-10-26 114906](https://github.com/user-attachments/assets/b9c94fbf-b257-47b8-8658-7c711fba9fbd)
+
